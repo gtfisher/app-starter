@@ -43,5 +43,5 @@ You can preview the production build with `npm run preview`.
 
 This was setup with svelte kit and the tailwind adder:
 
-* `npx svelte-add@latest tailwindcss` tailwind adder see ["https://github.com/svelte-add/tailwindcss"](Tailwind adder)
-* `npm init svelte@next my-app` [https://kit.svelte.dev/](Svelte kit)
+* `npx svelte-add@latest tailwindcss` tailwind adder see [Tailwind adder](https://github.com/svelte-add/tailwindcss")
+* `npm init svelte@next my-app` [Svelte kit](https://kit.svelte.dev/)
